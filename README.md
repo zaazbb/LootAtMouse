@@ -1,6 +1,6 @@
 # LootAtMouse for Vanilla WoW (1.12)
 
-Vanilla wow (1.12) addon that opens loot window at current mouse cursor position.
+Vanilla WoW (1.12) addon that opens loot window at current mouse cursor position.
 
 ## Installation
 
