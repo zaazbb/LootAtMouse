@@ -1,0 +1,10 @@
+# LootAtMouse for Vanilla WoW (1.12)
+
+Vanilla wow (1.12) addon that opens loot window at current mouse cursor position.
+
+## Installation
+
+1. Download the [latest release](https://github.com/mitjafelicijan/LootAtMouse/archive/refs/heads/master.zip)
+2. Extract the folder into `\Interface\AddOns\`
+3. Rename the folder from `LootAtMouse-master` to `LootAtMouse`
+4. Restart WoW if it was running
